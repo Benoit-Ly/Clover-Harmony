@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: bb74cc6d7419f524d963c01ed5fd5439
+timeCreated: 1524747776
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Clover_Under_Hair
+    21300002: Clover_Leg_Calf_L
+    21300004: Clover_Neck
+    21300006: Clover_Collar
+    21300008: Clover_Head
+    21300010: Clover_Head_Hair
+    21300012: Clover_Helmet
+    21300014: Clover_Leg_Calf_R
+    21300016: Clover_Leg_L
+    21300018: Clover_Leg_R
+    21300020: Clover_Arm_L
+    21300022: Clover_Chest
+    21300024: Clover_Arm_R
+    21300026: Clover_Shoulder_L
+    21300028: Clover_Shoulder_R
+    21300030: Clover_Foot_L
+    21300032: Clover_Foot_R
+    21300034: Clover_Knee_L
+    21300036: Clover_Knee_R
+    21300038: Clover_Hips
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clover_Under_Hair
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 247
+        width: 200
+        height: 465
+      alignment: 9
+      pivot: {x: 0.505, y: 0.49784946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Leg_Calf_L
+      rect:
+        serializedVersion: 2
+        x: 237.00002
+        y: 404
+        width: 98.999985
+        height: 310
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Neck
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 618
+        width: 63
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Collar
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 605
+        width: 142
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Head
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 575
+        width: 146
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Head_Hair
+      rect:
+        serializedVersion: 2
+        x: 849.4999
+        y: 573
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49640375, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Helmet
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 580
+        width: 183
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Leg_Calf_R
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 93
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Leg_L
+      rect:
+        serializedVersion: 2
+        x: 351.00003
+        y: 260
+        width: 123.99997
+        height: 307
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Leg_R
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 263
+        width: 130
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Arm_L
+      rect:
+        serializedVersion: 2
+        x: 640.5
+        y: 185.00003
+        width: 157
+        height: 367.99997
+      alignment: 9
+      pivot: {x: 0.50955415, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Chest
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 281
+        width: 271
+        height: 275
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Arm_R
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 188
+        width: 128
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49732623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Shoulder_L
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 24
+        width: 124
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Shoulder_R
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 33
+        width: 105
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Foot_L
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 56
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Foot_R
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 70
+        width: 147
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Knee_L
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 8
+        width: 145
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Knee_R
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2
+        width: 137
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clover_Hips
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 11
+        width: 177
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99930976581010
+  assetBundleName: 
+  assetBundleVariant: 

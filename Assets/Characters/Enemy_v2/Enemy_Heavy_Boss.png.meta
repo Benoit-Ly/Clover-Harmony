@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 06a97d3137eccfe4eaa5cdb8ad4c6d7d
+timeCreated: 1526913792
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ENEMI_CHOU_sprite_sheet_0
+    21300002: ENEMI_CHOU_sprite_sheet_1
+    21300004: ENEMI_CHOU_sprite_sheet_2
+    21300006: ENEMI_CHOU_sprite_sheet_3
+    21300008: ENEMI_CHOU_sprite_sheet_4
+    21300010: ENEMI_CHOU_sprite_sheet_5
+    21300012: ENEMI_CHOU_sprite_sheet_6
+    21300014: ENEMI_CHOU_sprite_sheet_7
+    21300016: ENEMI_CHOU_sprite_sheet_8
+    21300018: ENEMI_CHOU_sprite_sheet_9
+    21300020: ENEMI_CHOU_sprite_sheet_10
+    21300022: ENEMI_CHOU_sprite_sheet_11
+    21300024: ENEMI_CHOU_sprite_sheet_12
+    21300026: ENEMI_CHOU_sprite_sheet_13
+    21300028: ENEMI_CHOU_sprite_sheet_14
+    21300030: ENEMI_CHOU_sprite_sheet_15
+    21300032: ENEMI_CHOU_sprite_sheet_16
+    21300034: ENEMI_CHOU_sprite_sheet_17
+    21300036: ENEMI_CHOU_sprite_sheet_18
+    21300038: ENEMI_CHOU_sprite_sheet_19
+    21300040: ENEMI_CHOU_sprite_sheet_20
+    21300042: ENEMI_CHOU_sprite_sheet_21
+    21300044: ENEMI_CHOU_sprite_sheet_22
+    21300046: ENEMI_CHOU_sprite_sheet_23
+    21300048: ENEMI_CHOU_sprite_sheet_24
+    21300050: EB_Collar_6
+    21300052: EB_Collar_5
+    21300054: EB_Collar_4
+    21300056: EB_Collar_3
+    21300058: EB_Collar_7
+    21300060: EB_Collar_2
+    21300062: EB_Collar_1
+    21300064: EB_Collar_0
+    21300066: EB_Head
+    21300068: EH
+    21300070: EB_Skirt
+    21300072: EB_Arm_L
+    21300074: EB_Chest
+    21300076: EB_Arm_R
+    21300078: EH_Leg
+    21300080: EB_Leg_R
+    21300082: EB_Knee_R
+    21300084: EB_Foot_R
+    21300086: EB_Leg_L
+    21300088: EB_Leg_L
+    21300090: EB_Weapon
+    21300092: EB_Knee_L
+    21300094: EB_Skirt_2
+    21300096: EB_Foot_L
+    21300098: EB_Hips
+    21300100: EB_Leg_Calf_R
+    21300102: EH_Leg_Calf_L
+    21300104: EB_Leg_Calf_L
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EB_Collar_6
+      rect:
+        serializedVersion: 2
+        x: 23.586473
+        y: 1802.5935
+        width: 305.8369
+        height: 137.67432
+      alignment: 9
+      pivot: {x: 0.49834892, y: 0.4968692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_5
+      rect:
+        serializedVersion: 2
+        x: 347.50873
+        y: 1734.5935
+        width: 304.60938
+        height: 197.82861
+      alignment: 9
+      pivot: {x: 0.49897078, y: 0.49995926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_4
+      rect:
+        serializedVersion: 2
+        x: 655.4349
+        y: 1677.5936
+        width: 277.60352
+        height: 312.40637
+      alignment: 9
+      pivot: {x: 0.49914736, y: 0.50065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_3
+      rect:
+        serializedVersion: 2
+        x: 975.58575
+        y: 1615.5934
+        width: 321.79498
+        height: 373.38074
+      alignment: 9
+      pivot: {x: 0.49694452, y: 0.4992394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_7
+      rect:
+        serializedVersion: 2
+        x: 1306.2787
+        y: 1651.5935
+        width: 148.71191
+        height: 175.73096
+      alignment: 9
+      pivot: {x: 0.49909297, y: 0.49738744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_2
+      rect:
+        serializedVersion: 2
+        x: 1463.2412
+        y: 1641.5936
+        width: 269.01074
+        height: 336.5515
+      alignment: 9
+      pivot: {x: 0.49908292, y: 0.49890208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_1
+      rect:
+        serializedVersion: 2
+        x: 1761.3971
+        y: 1603.5934
+        width: 310.74695
+        height: 368.4701
+      alignment: 9
+      pivot: {x: 0.49591124, y: 0.4991077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Collar_0
+      rect:
+        serializedVersion: 2
+        x: 2080.3203
+        y: 1564.5936
+        width: 426.13574
+        height: 425.40637
+      alignment: 9
+      pivot: {x: 0.49791515, y: 0.50282806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Head
+      rect:
+        serializedVersion: 2
+        x: 65.576385
+        y: 1394.5935
+        width: 238.32227
+        height: 250.6167
+      alignment: 9
+      pivot: {x: 0.47382736, y: 0.49839458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Hips
+      rect:
+        serializedVersion: 2
+        x: 336.51138
+        y: 1388.5934
+        width: 309.5195
+        height: 222.38135
+      alignment: 9
+      pivot: {x: 0.4991239, y: 0.49872103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Skirt
+      rect:
+        serializedVersion: 2
+        x: 714.4208
+        y: 1113.5936
+        width: 379.48926
+        height: 418.80322
+      alignment: 9
+      pivot: {x: 0.49956414, y: 0.4988172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Arm_L
+      rect:
+        serializedVersion: 2
+        x: 1165.9777
+        y: 915.80444
+        width: 368.4701
+        height: 686.4281
+      alignment: 9
+      pivot: {x: 0.44872186, y: 0.6544586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Chest
+      rect:
+        serializedVersion: 2
+        x: 1593.9777
+        y: 1001.77246
+        width: 439.63867
+        height: 572.25793
+      alignment: 9
+      pivot: {x: 0.4981869, y: 0.500172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Arm_R
+      rect:
+        serializedVersion: 2
+        x: 2095.5037
+        y: 879.27423
+        width: 402.844
+        height: 663.1031
+      alignment: 9
+      pivot: {x: 0.41950753, y: 0.43843225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Leg_R
+      rect:
+        serializedVersion: 2
+        x: 200.31633
+        y: 902.59357
+        width: 329.16016
+        height: 411.4372
+      alignment: 9
+      pivot: {x: 0.5003147, y: 0.499241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Leg_Calf_R
+      rect:
+        serializedVersion: 2
+        x: 546.461
+        y: 911.59344
+        width: 136.43652
+        height: 269.03143
+      alignment: 9
+      pivot: {x: 0.4986861, y: 0.49773574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Knee_R
+      rect:
+        serializedVersion: 2
+        x: 719.4195
+        y: 908.5935
+        width: 116.7959
+        height: 164.68237
+      alignment: 9
+      pivot: {x: 0.49728101, y: 0.4973593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Foot_R
+      rect:
+        serializedVersion: 2
+        x: 875.382
+        y: 912.5935
+        width: 214.99908
+        height: 142.58484
+      alignment: 9
+      pivot: {x: 0.49822447, y: 0.49729294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Leg_Calf_L
+      rect:
+        serializedVersion: 2
+        x: 121.56297
+        y: 528.5935
+        width: 114.340805
+        height: 288.67358
+      alignment: 9
+      pivot: {x: 0.4979588, y: 0.49850896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Leg_L
+      rect:
+        serializedVersion: 2
+        x: 303.51932
+        y: 486.36584
+        width: 256.73538
+        height: 353.73846
+      alignment: 9
+      pivot: {x: 0.49849257, y: 0.50074893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Weapon
+      rect:
+        serializedVersion: 2
+        x: 595.81506
+        y: 77.74765
+        width: 1867.2665
+        height: 571.0303
+      alignment: 9
+      pivot: {x: 0.49815324, y: 0.5800958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Knee_L
+      rect:
+        serializedVersion: 2
+        x: 103.56728
+        y: 319.59348
+        width: 137.66403
+        height: 172.0481
+      alignment: 9
+      pivot: {x: 0.49709934, y: 0.49641058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Skirt_2
+      rect:
+        serializedVersion: 2
+        x: 302.51953
+        y: 17.365849
+        width: 276.37598
+        height: 416.34796
+      alignment: 9
+      pivot: {x: 0.49743977, y: 0.5011051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EB_Foot_L
+      rect:
+        serializedVersion: 2
+        x: 64.576645
+        y: 49.59346
+        width: 221.1367
+        height: 133.99136
+      alignment: 9
+      pivot: {x: 0.49482223, y: 0.49560305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 100158841485433
+  assetBundleName: 
+  assetBundleVariant: 

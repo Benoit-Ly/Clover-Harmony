@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055071c4491388c46b3aa8e76529cab0, type: 3}
+  m_Name: BossLevel1
+  m_EditorClassIdentifier: 
+  EnemySet:
+  - {fileID: 11400000, guid: c51ebc3fcec28f6478e14a4c9661f4dd, type: 2}
+  - {fileID: 11400000, guid: 0c82db6497fe77848a40b9f441389153, type: 2}
+  - {fileID: 11400000, guid: 1fdfd8daa9b3b7f4c8e429360084f97f, type: 2}

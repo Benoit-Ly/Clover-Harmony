@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5af73f99bf04a48b727ae2b24bdb8c, type: 3}
+  m_Name: ArenaLevel2_04_Data
+  m_EditorClassIdentifier: 
+  Waves:
+  - {fileID: 11400000, guid: 0f6ed7ff0b7b3f7478aeaaec0dba39a0, type: 2}
+  - {fileID: 11400000, guid: 4d1d94b8f86f7264395e8c0afd342100, type: 2}
+  - {fileID: 11400000, guid: c16ad3472472cf541aa6c9a28d621ccd, type: 2}

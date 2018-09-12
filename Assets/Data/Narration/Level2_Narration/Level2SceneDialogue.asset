@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e13f8500143dc4a92ac3449b4d6020, type: 3}
+  m_Name: Level2SceneDialogue
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 508fb1a24e175f047beba1848d414420, type: 3}
+  TextsOfThoughtsList:
+  - {fileID: 11400000, guid: 71547a2cac145c4488930ced3b40180d, type: 2}

@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e31e4118164a04b9bc934ed0537500, type: 3}
+  m_Name: PowerUpsData
+  m_EditorClassIdentifier: 
+  m_PowerAttack:
+    m_Levels:
+    - Name: Increased Powered Attack
+      id: 11
+      CloverDescription: 
+      CloverEffectValue: 0
+      AmaranthDescription: 
+      AmaranthEffectValue: 0
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Strong Powered Attack
+      id: 12
+      CloverDescription: Powered attack hits a 2 units circular zone around the impact
+        point.
+      CloverEffectValue: 2
+      AmaranthDescription: Up to 2 marks can be stacked per ennemy. Damages of the
+        Powered attack depends on the number of marks.
+      AmaranthEffectValue: 0
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Ultimate Powered Attack
+      id: 13
+      CloverDescription: 
+      CloverEffectValue: 0
+      AmaranthDescription: 
+      AmaranthEffectValue: 0
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_PowerRetention:
+    m_Levels:
+    - Name: Power Retention
+      id: 22
+      CloverDescription: 
+      CloverEffectValue: 2
+      AmaranthDescription: 
+      AmaranthEffectValue: 67
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Increased Power Retention
+      id: 23
+      CloverDescription: 
+      CloverEffectValue: 1
+      AmaranthDescription: 
+      AmaranthEffectValue: 50
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_AirAttack:
+    m_Levels:
+    - Name: Increased Air Attack
+      id: 9
+      CloverDescription: 
+      CloverEffectValue: 25
+      AmaranthDescription: 
+      AmaranthEffectValue: 25
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Strong Air Attack
+      id: 8
+      CloverDescription: 
+      CloverEffectValue: 50
+      AmaranthDescription: 
+      AmaranthEffectValue: 50
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Ultimate Air Attack
+      id: 7
+      CloverDescription: 
+      CloverEffectValue: 100
+      AmaranthDescription: 
+      AmaranthEffectValue: 100
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_CrowdControl:
+    m_Levels:
+    - Name: Crowd Control
+      id: 21
+      CloverDescription: 
+      CloverEffectValue: 0
+      AmaranthDescription: 
+      AmaranthEffectValue: 0
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_PowerCharges:
+    m_Levels:
+    - Name: Power attack charges (1)
+      id: -1
+      CloverDescription: 
+      CloverEffectValue: 1
+      AmaranthDescription: 
+      AmaranthEffectValue: 1
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Power attack charges (2)
+      id: -2
+      CloverDescription: 
+      CloverEffectValue: 2
+      AmaranthDescription: 
+      AmaranthEffectValue: 2
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Power attack charges (3)
+      id: -3
+      CloverDescription: 
+      CloverEffectValue: 3
+      AmaranthDescription: 
+      AmaranthEffectValue: 3
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_PowerAbsorption:
+    m_Levels:
+    - Name: Power Absorption
+      id: 19
+      CloverDescription: 
+      CloverEffectValue: 0
+      AmaranthDescription: 
+      AmaranthEffectValue: 0
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_Resilience:
+    m_Levels:
+    - Name: Resilience
+      id: 1
+      CloverDescription: 
+      CloverEffectValue: 10
+      AmaranthDescription: 
+      AmaranthEffectValue: 10
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Increased Resilience
+      id: 2
+      CloverDescription: 
+      CloverEffectValue: 25
+      AmaranthDescription: 
+      AmaranthEffectValue: 25
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Ultimate Resilience
+      id: 3
+      CloverDescription: 
+      CloverEffectValue: 50
+      AmaranthDescription: 
+      AmaranthEffectValue: 50
+      CostMultiplier: 0
+      VitaePrice: 0
+  m_LightAttack:
+    m_Levels:
+    - Name: Increased Attack
+      id: 0
+      CloverDescription: 
+      CloverEffectValue: 10
+      AmaranthDescription: 
+      AmaranthEffectValue: 10
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Strong Attack
+      id: 10
+      CloverDescription: 
+      CloverEffectValue: 30
+      AmaranthDescription: 
+      AmaranthEffectValue: 30
+      CostMultiplier: 0
+      VitaePrice: 0
+    - Name: Ultimate Attack
+      id: 20
+      CloverDescription: 
+      CloverEffectValue: 50
+      AmaranthDescription: 
+      AmaranthEffectValue: 50
+      CostMultiplier: 0
+      VitaePrice: 0

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4970ba94eca44449ff3e9577788e5f, type: 3}
+  m_Name: P2Data
+  m_EditorClassIdentifier: 
+  m_HP: 1000
+  m_Energy: 3
+  m_Speed: 5
+  m_DebuffSpeed: 2
+  m_VerticalSpeed: 5
+  m_DebuffVerticalSpeed: 2
+  m_JumpHeight: 10
+  m_JumpSpeed: 10
+  m_AttackList:
+  - name: LightAttack
+    damageProvider: {fileID: 0}
+    type: 0
+    launchDirection: 0
+    axis: 0
+    horizontalDir: 1
+    targetPosition: 0
+    damage: 10
+    stunDuration: 60
+  - name: Final1
+    damageProvider: {fileID: 0}
+    type: 0
+    launchDirection: 0
+    axis: 0
+    horizontalDir: 1
+    targetPosition: 0
+    damage: 10
+    stunDuration: 30
+  - name: Final2
+    damageProvider: {fileID: 0}
+    type: 0
+    launchDirection: 1
+    axis: 0
+    horizontalDir: 1
+    targetPosition: 0
+    damage: 20
+    stunDuration: 30
+  - name: Final3
+    damageProvider: {fileID: 0}
+    type: 0
+    launchDirection: 2
+    axis: 0
+    horizontalDir: 1
+    targetPosition: 0
+    damage: 30
+    stunDuration: 30
+  - name: AirAttack
+    damageProvider: {fileID: 0}
+    type: 0
+    launchDirection: 3
+    axis: 0
+    horizontalDir: 0
+    targetPosition: 0
+    damage: 200
+    stunDuration: 30
+  - name: PowerAttack
+    damageProvider: {fileID: 0}
+    type: 1
+    launchDirection: 2
+    axis: 0
+    horizontalDir: -1
+    targetPosition: 0
+    damage: 200
+    stunDuration: 60

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055071c4491388c46b3aa8e76529cab0, type: 3}
+  m_Name: ArenaLevel1_02_Wave2
+  m_EditorClassIdentifier: 
+  EnemySet:
+  - {fileID: 11400000, guid: db04a77f209cfde4e997e1db495b95b7, type: 2}
+  - {fileID: 11400000, guid: 09599662f8bb4a3498f83f23caf22f6a, type: 2}
