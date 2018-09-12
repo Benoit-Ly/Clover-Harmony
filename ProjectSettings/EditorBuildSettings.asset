@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 47945862e4f42124c8531589fa8a52ef
+  - enabled: 0
+    path: Assets/Scenes/IntroNarration.unity
+    guid: 14dcc217fc230da4d8adee4357cf0895
+  - enabled: 0
+    path: Assets/Scenes/Level_1.unity
+    guid: 308438c8cb3fe984c8d34e06cc40406d
+  - enabled: 0
+    path: Assets/Scenes/Level_1_Narration.unity
+    guid: 2f303822f5d4c0046a891c84acc1854c
+  - enabled: 0
+    path: Assets/Scenes/Level_2.unity
+    guid: f1c008de86c1f7e42877c581a948f920
+  - enabled: 0
+    path: Assets/Scenes/Level_2_Narration.unity
+    guid: 35adf704476df3946ab08d49b8928621
+  - enabled: 0
+    path: Assets/Scenes/Level_3.unity
+    guid: 1486b0617b652a140959e154fdb32a77
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: b381c8712cf607d4ca30b78e66ba2619
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 9fa563da8c51a3043a4d43678745289c
